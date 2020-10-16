@@ -13,7 +13,7 @@ Manage your employee DB through your command line!
 * [Questions](#questions)
 * [License](#license)
 ## Screenshot
-![Screenshot of Workflow](screenshot.png)
+![Screenshot of Workflow](screenshot.gif)
 ## Installation
 1. Make sure you have nodejs and npm installed on your local machine
 1. Clone this repo onto your local machine
